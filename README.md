@@ -1,0 +1,2 @@
+# amino-coin-generator
+eso
